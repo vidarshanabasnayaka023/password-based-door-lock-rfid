@@ -34,15 +34,15 @@ with RFID verification to provide controlled access to a door.
 
 ### Hardware
 
-![Door Lock System](image/dls1.jpg)
+![Door Lock System](Image/dls1.jpeg)
 
-![Door Lock System](image/dls2.jpg)
+![Door Lock System](Image/dls2.jpeg)
 
-![Door Lock System](image3/dls3.jpg)
+![Door Lock System](Image/dls3.jpeg)
 
-![Door Lock System](image3/dls4.jpg)
+![Door Lock System](Image/dls4.jpeg)
 
-![Door Lock System](image3/dls5.jpg)
+![Door Lock System](Image/dls5.jpeg)
 
 ## How It Works
 
